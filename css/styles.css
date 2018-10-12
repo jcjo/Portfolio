@@ -1,12 +1,13 @@
 .bg-success {
   font-family: Oswald;
   padding: 2px;
-  maring: 4px;
+  margin: 2px;
   border: 2px solid;
 }
 
 .container {
   font-family: 'Oswald', sans-serif;
+  background-color: #F6FFFC
 }
 
 .main {
@@ -14,7 +15,7 @@
 }
 
 .lang {
-  color: blue;
+  color: #7F7761;
 }
 .backmain {
   float: absolute
@@ -26,4 +27,17 @@
 }
 .Handlee {
   font-family: 'Handlee', cursive
+}
+
+.projectlist {
+  float: absolute
+}
+
+a:visited {
+    color: #C39BCC;
+    text-decoration: none
+}
+
+.darkpurple {
+  color: #8E5A99
 }
