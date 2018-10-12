@@ -19,3 +19,7 @@
 .backmain {
   float: absolute
 }
+
+.panel-title {
+  font-family: 'Handlee', cursive;
+}
