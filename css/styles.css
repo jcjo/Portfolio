@@ -45,5 +45,9 @@ a:visited {
   color: #8E5A99
 }
 .customjumbo {
-  background-color: #FFF5DC
+  background-image: url(https://i2.wp.com/www.issacharprojects.com/wp-content/uploads/2016/03/header-pattern.png?ssl=1);
+}
+
+.panel-heading {
+  background-color: #FFF5DC;
 }
