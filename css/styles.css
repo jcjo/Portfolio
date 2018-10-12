@@ -1,13 +1,15 @@
-.bg-success {
+.bg-info {
   font-family: 'Comfortaa', cursive;
-  padding: 2px;
-  margin: 2px;
+  padding: 1px;
+  margin: 1px;
   border: 2px solid;
+  background-color: #FFF5DC;
+  text-align: absolute;
 }
 
 .container {
   font-family: 'Comfortaa', cursive;
-  background-color: #F6FFFC
+  background-color: #F1F7F5
 }
 
 .main {
