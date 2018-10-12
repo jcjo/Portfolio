@@ -1,6 +1,10 @@
 .bg-success {
-  font-family: ;
+  font-family: Oswald;
   padding: 2px;
   maring: 4px;
   border: 2px solid;
+}
+
+.container {
+  font-family: 'Oswald', sans-serif;
 }
