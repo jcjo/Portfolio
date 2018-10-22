@@ -8,6 +8,8 @@
 
 _{This HTML and CSS webpage allows you to browse Jacey Tupa's About Me section, her current hobbies, her career and educational history. It also features a list of projects she has completed at Epicodus so far in 2018. }_
 
+_{link to github: https://github.com/jcjo/Portfolio}_
+
 ## Setup/Installation Requirements
 
 * _Download or clone from Github_
